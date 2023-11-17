@@ -1,0 +1,18 @@
+git config:
+امر يستخدم لأعداد ال
+username & password
+على الكمبيوتر
+
+git init:
+يستخدم لانشاء واعداد 
+repo 
+جديد
+
+git merge:
+يستخدم لدمج اكتر من 
+branch 
+مع بعض
+
+git remote:
+للادارة والتحكم في ال
+remote repo
